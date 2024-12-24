@@ -5,3 +5,5 @@ clash for linux:[ https://eaglebear2002.github.io/%E6%8A%80%E6%9C%AF%E7%A7%91%E6
 python uv conda：https://github.com/Menghuan1918/uvv
 
 the algorithms-python: https://thealgorithms.github.io/Python/DIRECTORY.html
+
+translatePDF: https://github.com/Byaidu/PDFMathTranslate
