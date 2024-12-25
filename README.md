@@ -7,3 +7,5 @@ python uv conda：https://github.com/Menghuan1918/uvv
 the algorithms-python: https://thealgorithms.github.io/Python/DIRECTORY.html
 
 translatePDF: https://github.com/Byaidu/PDFMathTranslate
+
+carla_learning: https://www.cnblogs.com/ppqppl/articles/17084715.html
