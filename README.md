@@ -9,3 +9,5 @@ the algorithms-python: https://thealgorithms.github.io/Python/DIRECTORY.html
 translatePDF: https://github.com/Byaidu/PDFMathTranslate
 
 carla_learning: https://www.cnblogs.com/ppqppl/articles/17084715.html
+
+autoware+zenoh: https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/
