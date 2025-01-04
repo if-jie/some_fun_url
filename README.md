@@ -11,3 +11,5 @@ translatePDF: https://github.com/Byaidu/PDFMathTranslate
 carla_learning: https://www.cnblogs.com/ppqppl/articles/17084715.html
 
 autoware+zenoh: https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/
+
+rust：https://www.youtube.com/watch?v=2DYomstP0iQ
